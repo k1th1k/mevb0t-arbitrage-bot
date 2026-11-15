@@ -1,0 +1,6 @@
+vendor/
+*.out
+*.dll
+*.exe
+*.test
+*.so
